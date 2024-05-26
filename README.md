@@ -1,4 +1,4 @@
-Prasanna Ghimire
+
 
 Hello! I'm Prasanna Ghimire, a dedicated senior computer engineering student with a profound passion for AI and data science. My journey in the tech world is driven by curiosity and the desire to innovate. 
 
